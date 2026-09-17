@@ -1,0 +1,55 @@
+{
+  "Registration": {
+    "title": "Inscripción grupal ConfHub",
+    "description": "Inscribe a tu equipo en DevSummit 2026 — tres pasos rápidos.",
+    "contactTitle": "Datos del organizador",
+    "eventTitle": "Preferencias del evento",
+    "attendeesTitle": "Datos de los asistentes",
+    "continue": "Continuar",
+    "submit": "Enviar inscripción",
+    "returnHome": "Volver al inicio",
+    "successTitle": "¡Inscripción recibida!",
+    "successBody": "Te enviaremos la confirmación y el código de descuento grupal pronto.",
+    "close": "Cerrar",
+    "fields": {
+      "title": "Título",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "organization": "Tipo de organización",
+      "attendancePurpose": "Motivo de asistencia",
+      "track": "Track preferido",
+      "startDate": "Fecha de inicio",
+      "endDate": "Fecha de fin",
+      "companyName": "Nombre de la empresa"
+    },
+    "options": {
+      "titles": ["Sr", "Sra", "Mx", "Dr"],
+      "organizationTypes": ["Individual", "Empresa", "Universidad"],
+      "purposes": ["Aprendizaje", "Networking", "Contratación", "Ponente"],
+      "tracks": ["Frontend", "Backend", "IA/ML", "DevOps"]
+    },
+    "ticketTypes": {
+      "standard": "Estándar",
+      "student": "Estudiante",
+      "vip": "VIP"
+    },
+    "total": "Total de asistentes",
+    "errors": {
+      "title": "Selecciona un título",
+      "firstName": "El nombre es obligatorio",
+      "lastName": "El apellido es obligatorio",
+      "email": "Introduce un correo electrónico válido",
+      "phone": "Introduce un número de teléfono válido",
+      "organization": "Selecciona un tipo de organización",
+      "companyName": "El nombre de la empresa es obligatorio",
+      "attendancePurpose": "Selecciona un motivo",
+      "track": "Selecciona un track",
+      "startDate": "La fecha de inicio es obligatoria",
+      "endDate": "La fecha de fin es obligatoria",
+      "endBeforeStart": "La fecha de fin debe ser posterior a la de inicio",
+      "minAttendees": "La inscripción grupal requiere al menos 5 asistentes en total"
+    }
+  }
+}

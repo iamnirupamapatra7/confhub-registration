@@ -1,0 +1,55 @@
+{
+  "Registration": {
+    "title": "ConfHub Group Registration",
+    "description": "Register your team for DevSummit 2026 — three quick steps.",
+    "contactTitle": "Organizer details",
+    "eventTitle": "Event preferences",
+    "attendeesTitle": "Attendee details",
+    "continue": "Continue",
+    "submit": "Submit registration",
+    "returnHome": "Back to home",
+    "successTitle": "Registration received!",
+    "successBody": "We'll email your confirmation and group discount code shortly.",
+    "close": "Close",
+    "fields": {
+      "title": "Title",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "organization": "Organization type",
+      "attendancePurpose": "Purpose of attendance",
+      "track": "Preferred track",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "companyName": "Company name"
+    },
+    "options": {
+      "titles": ["Mr", "Ms", "Mx", "Dr"],
+      "organizationTypes": ["Individual", "Company", "University"],
+      "purposes": ["Learning", "Networking", "Recruiting", "Speaking"],
+      "tracks": ["Frontend", "Backend", "AI/ML", "DevOps"]
+    },
+    "ticketTypes": {
+      "standard": "Standard",
+      "student": "Student",
+      "vip": "VIP"
+    },
+    "total": "Total attendees",
+    "errors": {
+      "title": "Please select a title",
+      "firstName": "First name is required",
+      "lastName": "Last name is required",
+      "email": "Enter a valid email address",
+      "phone": "Enter a valid phone number",
+      "organization": "Please select an organization type",
+      "companyName": "Company name is required",
+      "attendancePurpose": "Please select a purpose",
+      "track": "Please select a track",
+      "startDate": "Start date is required",
+      "endDate": "End date is required",
+      "endBeforeStart": "End date must be after the start date",
+      "minAttendees": "Group registration needs at least 5 attendees in total"
+    }
+  }
+}
